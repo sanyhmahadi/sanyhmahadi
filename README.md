@@ -1,6 +1,6 @@
-[![MasterHead](https://hellofuture.orange.com/app/uploads/2018/01/Intro-HELLO-FUTURE-1920x1080_v2.gif)]
+![MasterHead](https://miro.medium.com/max/2000/1*-eLjPY7UGSoQhSyW5qC6gw.gif)
 <h1 align="center">Hi 👋, I'm Md. Mahadi Hasan Sany</h1>
-<h3 align="center">I am a researcher at the Computational Intelligence LAB (CiLab). Recently I have been doing some research work and published several research papers at some reputed international conferences. I completed my graduation B.Sc in CSE from Daffodil International University. At present, I am preparing myself to be a Full Stack Data Scientist.</h3>
+<h3 align="center">I am a researcher at the Computational Intelligence LAB (CiLab). Recently I have been doing some research work and published several research papers at some reputed international conferences. Besides that's, I also work as a prefect at DIU. My hobby is the materialization of my new hobbies. I completed my graduation B.Sc in CSE from Daffodil International University. At present, I am preparing myself to be a Full Stack Data Scientist.</h3>
 <img align="right" alt="Coading" width="400" src="https://wp.technologyreview.com/wp-content/uploads/2017/10/aiteachingitself1_0-5.gif?resize=854,569"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanyhmahadi&label=Profile%20views&color=0e75b6&style=flat" alt="sanyhmahadi" /> </p>
