@@ -1,10 +1,10 @@
 ![MasterHead](https://miro.medium.com/max/2000/1*-eLjPY7UGSoQhSyW5qC6gw.gif)
 <h1 align="center">Hi 👋, I'm Md. Mahadi Hasan Sany</h1>
-<h3 align="center">I am Machine Learning Engineer at [adorsho praniSheba]([url](https://www.pranisheba.com.bd/eng)). I am also a researcher at the Computational Intelligence LAB (CiLab). Recently I have been doing some research work and published several research papers at some reputed international conferences. I completed my graduation B.Sc in CSE from Daffodil International University. At present, I am preparing myself to be a Full Stack Data Scientist.</h3>
+<h3 align="center">I am Machine Learning Engineer at adorsho praniSheba Ltd. I am also a researcher at the Computational Intelligence LAB (CiLab). Recently I have been doing some research work and published several research papers at some reputed international conferences. I completed my graduation B.Sc in CSE from Daffodil International University. At present, I am preparing myself to be a Full Stack Data Scientist.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanyhmahadi&label=Profile%20views&color=0e75b6&style=flat" alt="sanyhmahadi" /> </p>
 
-- 🔭 I’m currently working on **Real time motion analysis**
+- 🔭 I’m currently working on **Cow Face verification**
 
 - 🌱 I’m currently learning **Full-Stack Data Science**
 
