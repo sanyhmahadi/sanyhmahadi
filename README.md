@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Computer Vision Related Project**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sanyhmahadi](https://github.com/sanyhmahadi)
+- 👨‍💻 All of my projects are available at [Sany H. Mahadi](https://github.com/sanyhmahadi)
 
 - 💬 Ask me about **CV, ML and NLP**
 
