@@ -1,6 +1,6 @@
 ![MasterHead](https://miro.medium.com/max/2000/1*-eLjPY7UGSoQhSyW5qC6gw.gif)
 <h1 align="center">Hi 👋, I'm Md. Mahadi Hasan Sany</h1>
-<h3 align="center">I am a Machine Learning Engineer at adorsho praniSheba Ltd. I am also a researcher at the Computational Intelligence LAB (CiLab). Recently I have been doing some research work and published several research papers at some reputed international conferences. I completed my graduation B.Sc in CSE from Daffodil International University. At present, I am preparing myself to be a Full Stack Data Scientist.</h3>
+<h3 align="center">I am a Machine Learning Engineer at [adorsho praniSheba Ltd.](https://pranisheba.com.bd/eng). I am also a researcher at the Computational Intelligence LAB (CiLab). Recently I have been doing some research work and published several research papers at some reputed international conferences. I completed my graduation B.Sc in CSE from Daffodil International University. At present, I am preparing myself to be a Full Stack Data Scientist.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanyhmahadi&label=Profile%20views&color=0e75b6&style=flat" alt="sanyhmahadi" /> </p>
 
@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Computer Vision Related Project**
 
-- 👨‍💻 All of my projects are available at [Sany H. Mahadi](https://github.com/sanyhmahadi)
+- 👨‍💻 All of my projects are available at [Sany H. Mahadi](https://github.com/sanyhmahadi?tab=repositories)
 
 - 💬 Ask me about **CV, ML and NLP**
 
