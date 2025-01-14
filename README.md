@@ -6,7 +6,7 @@
 
 - 🔭 Last Project that I worked on **Muzzle Base Cattle Identification System**
 
-- 🌱 I’m currently learning **Full-Stack Data Science**
+- 🌱 I’m currently learning **Full-Stack Machine Learning**
 
 - 👯 I’m looking to collaborate on **Computer Vision Related Project**
 
@@ -15,8 +15,6 @@
 - 💬 Ask me about **CV, ML and NLP**
 
 - 📫 How to reach me **mahadi15-11173@diu.edu.bd**
-
-- ⚡ Fun fact **I am a very much jolly mind, friendly and Funny Person**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
