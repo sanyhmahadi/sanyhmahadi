@@ -1,10 +1,10 @@
 ![MasterHead](https://miro.medium.com/max/2000/1*-eLjPY7UGSoQhSyW5qC6gw.gif)
 <h1 align="center">Hi 👋, I'm Md. Mahadi Hasan Sany</h1>
-<h3 align="center">I am a Machine Learning Engineer at <a href="https://pranisheba.com.bd/eng">adorsho praniSheba Ltd.</a> I am also a researcher at the Computational Intelligence LAB (CiLab). Recently I have been doing some research work and published several research papers at some reputed international conferences. I completed my graduation B.Sc in CSE from Daffodil International University. At present, I am preparing myself to be a Full Stack Data Scientist.</h3>
+<h3 align="center">I am Md. Mahadi Hasan Sany, a dedicated Machine Learning Engineer with extensive experience in data analysis, model optimization, and deployment. I hold a B.Sc. in Computer Science and Engineering from Daffodil International University, where I also served as a prefect and contributed as a researcher at the Computational Intelligence LAB (CiLab). I have worked professionally at Adorsho PraniSheba Ltd., building and deploying ML models to solve complex challenges. I am pursuing my M.Sc. in Information Studies at Aalborg University in Copenhagen. My research has led to several publications in reputed international conferences and journals. I am passionate about advancing my expertise in AI and technology, with aspirations of becoming a Full Stack Machine Learning Engineer. In my spare time, I enjoy working on projects that turn my dreams into reality and am continuously excited to learn and grow within the field.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanyhmahadi&label=Profile%20views&color=0e75b6&style=flat" alt="sanyhmahadi" /> </p>
 
-- 🔭 I’m currently working on **Cow Face verification**
+- 🔭 Last Project that I worked on **Muzzle Base Cattle Identification System**
 
 - 🌱 I’m currently learning **Full-Stack Data Science**
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **mahadi15-11173@diu.edu.bd**
 
-- ⚡ Fun fact **I am very much jolly mind, friendly and Funny Person**
+- ⚡ Fun fact **I am a very much jolly mind, friendly and Funny Person**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
