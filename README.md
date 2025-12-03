@@ -1,10 +1,8 @@
 ![MasterHead](https://miro.medium.com/max/2000/1*-eLjPY7UGSoQhSyW5qC6gw.gif)
 <h1 align="center">Hi 👋, this is Md. Mahadi Hasan Sany</h1>
 <h3 align="justify">
-I am Md. Mahadi Hasan Sany, a dedicated Machine Learning Engineer with extensive experience in data analysis, model optimization, and deployment. I hold a B.Sc. in Computer Science and Engineering from Daffodil International University, where I also served as a prefect and contributed as a researcher at the Computational Intelligence LAB (CiLab). 
-
-I have worked professionally at Adorsho PraniSheba Ltd., building and deploying ML models to solve complex challenges. I am currently pursuing my M.Sc. in Information Studies at Aalborg University in Copenhagen. My research has led to several publications in reputed international conferences and journals. 
-
+I am Md. Mahadi Hasan Sany, a dedicated Machine Learning Engineer with extensive experience in data analysis, model optimization, and deployment. I hold a B.Sc. in Computer Science and Engineering from Daffodil International University, where I also served as a prefect and contributed as a researcher at the Computational Intelligence LAB (CiLab). My research has led to several publications in reputed international conferences and journals. 
+I have worked professionally at Adorsho PraniSheba Ltd., building and deploying ML models to solve complex challenges. I am currently pursuing my M.Sc. in Information Studies at Aalborg University in Copenhagen.
 I am passionate about advancing my expertise in AI and technology, with aspirations of becoming a Full Stack Machine Learning Engineer. In my spare time, I enjoy working on projects that turn my dreams into reality, and I am continuously excited to learn and grow within the field.
 </h3>
 
