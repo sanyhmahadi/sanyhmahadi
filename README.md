@@ -9,7 +9,7 @@ Hi, I'm **Md Mahadi Hasan Sany** — a Machine Learning Engineer and Data Analys
 📊 Experienced in **Python, R, SQL, Power BI, Excel, Pandas, Scikit-Learn, PyTorch, TensorFlow**  
 📚 Published research in international conferences and journals  
 
-I enjoy working on projects at the intersection of **AI, data, and human experience** — from credit scoring systems to algorithmic perception studies. My focus is on creating solutions that are not only technically sound but also socially impactful.  
+I enjoy working on projects at the intersection of **AI, data, and human experience** from credit scoring systems to algorithmic perception studies. My focus is on creating solutions that are not only technically sound but also socially impactful.  
 ---
 ### 🔧 Core Skills
 - **Machine Learning**: Feature Engineering, Predictive Modeling, Scikit-Learn, PyTorch, TensorFlow  
@@ -24,7 +24,7 @@ I enjoy working on projects at the intersection of **AI, data, and human experie
 - People Analytics / HR Data  
 - BI & Reporting opportunities  
 ---
-💡 Outside of tech, I’ve also worked in hospitality, which sharpened my **interpersonal skills, adaptability, and teamwork** — qualities I bring into every project.  
+💡 Outside of tech, I’ve also worked in hospitality, which sharpened my **interpersonal skills, adaptability, and teamwork** qualities I bring into every project.  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanyhmahadi&label=Profile%20views&color=0e75b6&style=flat" alt="sanyhmahadi" /> </p>
 
