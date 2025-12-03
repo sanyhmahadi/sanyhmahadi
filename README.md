@@ -1,6 +1,6 @@
 ![MasterHead](https://miro.medium.com/max/2000/1*-eLjPY7UGSoQhSyW5qC6gw.gif)
 <h1 align="center">Hi 👋, this is Md. Mahadi Hasan Sany</h1>
-## 👨‍💻 About Me
+👨‍💻 About Me
 
 Hi, I'm **Md Mahadi Hasan Sany** — a Machine Learning Engineer and Data Analyst passionate about building intelligent systems and turning data into actionable insights.  
 
@@ -10,28 +10,21 @@ Hi, I'm **Md Mahadi Hasan Sany** — a Machine Learning Engineer and Data Analys
 📚 Published research in international conferences and journals  
 
 I enjoy working on projects at the intersection of **AI, data, and human experience** — from credit scoring systems to algorithmic perception studies. My focus is on creating solutions that are not only technically sound but also socially impactful.  
-
 ---
-
 ### 🔧 Core Skills
 - **Machine Learning**: Feature Engineering, Predictive Modeling, Scikit-Learn, PyTorch, TensorFlow  
 - **Data Analysis & Visualization**: Power BI, Excel, Matplotlib, Seaborn  
 - **Data Wrangling**: Pandas, SQL, NumPy  
 - **Business Intelligence & Reporting**  
 - **Research & Critical Thinking**: Qualitative + Quantitative methods  
-
 ---
-
 ### 🚀 What I’m Looking For
 - AI/ML Engineering roles  
 - Data Analysis & Visualization projects  
 - People Analytics / HR Data  
 - BI & Reporting opportunities  
-
 ---
-
 💡 Outside of tech, I’ve also worked in hospitality, which sharpened my **interpersonal skills, adaptability, and teamwork** — qualities I bring into every project.  
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanyhmahadi&label=Profile%20views&color=0e75b6&style=flat" alt="sanyhmahadi" /> </p>
 
@@ -62,13 +55,16 @@ I enjoy working on projects at the intersection of **AI, data, and human experie
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/>
 </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
-<a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/google_colab/google_colab-icon.svg" alt="google colab" width="40" height="40"/>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vs code" width="40" height="40"/>
 </a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vs code" width="40" height="40"/>
+</a>
+<a href="https://huggingface.co/" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="hugging face" width="40" height="40"/>
 </a>
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
