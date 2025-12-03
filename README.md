@@ -45,5 +45,5 @@
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanyhmahadi&layout=compact)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sanyhmahadi&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sanyhmahadi&show_icons=true&locale=en)
 ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sanyhmahadi)
