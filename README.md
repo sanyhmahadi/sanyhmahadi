@@ -1,6 +1,12 @@
 ![MasterHead](https://miro.medium.com/max/2000/1*-eLjPY7UGSoQhSyW5qC6gw.gif)
 <h1 align="center">Hi 👋, this is Md. Mahadi Hasan Sany</h1>
-<h3 align="center">I am Md. Mahadi Hasan Sany, a dedicated Machine Learning Engineer with extensive experience in data analysis, model optimization, and deployment. I hold a B.Sc. in Computer Science and Engineering from Daffodil International University, where I also served as a prefect and contributed as a researcher at the Computational Intelligence LAB (CiLab). I have worked professionally at adorsho praniSheba Ltd., building and deploying ML models to solve complex challenges. I am pursuing my M.Sc. in Information Studies at Aalborg University in Copenhagen. My research has led to several publications in reputed international conferences and journals. I am passionate about advancing my expertise in AI and technology, with aspirations of becoming a Full Stack Machine Learning Engineer. In my spare time, I enjoy working on projects that turn my dreams into reality and am continuously excited to learn and grow within the field.</h3>
+<h3 align="justify">
+I am Md. Mahadi Hasan Sany, a dedicated Machine Learning Engineer with extensive experience in data analysis, model optimization, and deployment. I hold a B.Sc. in Computer Science and Engineering from Daffodil International University, where I also served as a prefect and contributed as a researcher at the Computational Intelligence LAB (CiLab). 
+
+I have worked professionally at Adorsho PraniSheba Ltd., building and deploying ML models to solve complex challenges. I am currently pursuing my M.Sc. in Information Studies at Aalborg University in Copenhagen. My research has led to several publications in reputed international conferences and journals. 
+
+I am passionate about advancing my expertise in AI and technology, with aspirations of becoming a Full Stack Machine Learning Engineer. In my spare time, I enjoy working on projects that turn my dreams into reality, and I am continuously excited to learn and grow within the field.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanyhmahadi&label=Profile%20views&color=0e75b6&style=flat" alt="sanyhmahadi" /> </p>
 
@@ -38,6 +44,9 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/>
+</a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
