@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanyhmahadi&label=Profile%20views&color=0e75b6&style=flat" alt="sanyhmahadi" /> </p>
 
-- 🔭 Last Project that I worked on **Muzzle Base Cattle Identification System**
+- 🔭 Last Project that I worked on **South Harbour AI App for Sustainable Recycling**
 
 - 🌱 I’m currently learning **Full-Stack Machine Learning**
 
@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **CV, ML and NLP**
 
-- 📫 How to reach me **mahadi15-11173@diu.edu.bd**
+- 📫 How to reach me **msany24@student.aau.dk**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -44,8 +44,6 @@
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanyhmahadi&show_icons=true&locale=en&layout=compact" alt="sanyhmahadi" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanyhmahadi&show_icons=true&locale=en" alt="sanyhmahadi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanyhmahadi&" alt="sanyhmahadi" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanyhmahadi&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sanyhmahadi&show_icons=true)
+![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sanyhmahadi)
