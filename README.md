@@ -1,10 +1,37 @@
 ![MasterHead](https://miro.medium.com/max/2000/1*-eLjPY7UGSoQhSyW5qC6gw.gif)
 <h1 align="center">Hi 👋, this is Md. Mahadi Hasan Sany</h1>
-<h3 align="justify">
-I am Md. Mahadi Hasan Sany, a dedicated Machine Learning Engineer with extensive experience in data analysis, model optimization, and deployment. I hold a B.Sc. in Computer Science and Engineering from Daffodil International University, where I also served as a prefect and contributed as a researcher at the Computational Intelligence LAB (CiLab). My research has led to several publications in reputed international conferences and journals. 
-I have worked professionally at Adorsho PraniSheba Ltd., building and deploying ML models to solve complex challenges. I am currently pursuing my M.Sc. in Information Studies at Aalborg University in Copenhagen.
-I am passionate about advancing my expertise in AI and technology, with aspirations of becoming a Full Stack Machine Learning Engineer. In my spare time, I enjoy working on projects that turn my dreams into reality, and I am continuously excited to learn and grow within the field.
-</h3>
+## 👨‍💻 About Me
+
+Hi, I'm **Md Mahadi Hasan Sany** — a Machine Learning Engineer and Data Analyst passionate about building intelligent systems and turning data into actionable insights.  
+
+🎓 Currently pursuing my **M.Sc. in Information Studies** at **Aalborg University, Denmark**  
+💼 Former ML Engineer at **Adorsho PraniSheba Ltd.**  
+📊 Experienced in **Python, R, SQL, Power BI, Excel, Pandas, Scikit-Learn, PyTorch, TensorFlow**  
+📚 Published research in international conferences and journals  
+
+I enjoy working on projects at the intersection of **AI, data, and human experience** — from credit scoring systems to algorithmic perception studies. My focus is on creating solutions that are not only technically sound but also socially impactful.  
+
+---
+
+### 🔧 Core Skills
+- **Machine Learning**: Feature Engineering, Predictive Modeling, Scikit-Learn, PyTorch, TensorFlow  
+- **Data Analysis & Visualization**: Power BI, Excel, Matplotlib, Seaborn  
+- **Data Wrangling**: Pandas, SQL, NumPy  
+- **Business Intelligence & Reporting**  
+- **Research & Critical Thinking**: Qualitative + Quantitative methods  
+
+---
+
+### 🚀 What I’m Looking For
+- AI/ML Engineering roles  
+- Data Analysis & Visualization projects  
+- People Analytics / HR Data  
+- BI & Reporting opportunities  
+
+---
+
+💡 Outside of tech, I’ve also worked in hospitality, which sharpened my **interpersonal skills, adaptability, and teamwork** — qualities I bring into every project.  
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanyhmahadi&label=Profile%20views&color=0e75b6&style=flat" alt="sanyhmahadi" /> </p>
 
